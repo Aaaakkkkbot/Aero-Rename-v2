@@ -6,7 +6,7 @@ from pyrogram.types import ( InlineKeyboardButton, InlineKeyboardMarkup,ForceRep
 import humanize
 
 
-from helper.database import  insert ,find_one,used_limit,usertype,uploadlimit,addpredata,total_rename,total_size
+from helper.database insert  insert ,find_one,used_limit,usertype,uploadlimit,addpredata,total_rename,total_size
 from pyrogram.file_id import FileId
 from helper.database import daily as daily_
 from helper.date import add_date ,check_expi
